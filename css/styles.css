@@ -1,0 +1,124 @@
+/***********************************TAG SELECTORS*************************************/
+
+body {
+  background-color: transparent;
+  margin: 0;
+  align-items: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: inset;
+  border-color: thistle;
+  border-width: 2px;
+  width: 5%;
+}
+
+h1 {
+  color: #222222;
+}
+
+h2 {
+  color: #222222;
+}
+
+p1 {
+  color: #afafaf;
+  font-size: 1rem;
+  font-family: Merriweather, Georgia, serif;
+  line-height: 1.75;
+  text-align: justify;
+}
+/***********************************CLASS SELECTORS*************************************/
+.container-body {
+  margin: 0 auto;
+}
+
+.container-head {
+  padding: 50px 0;
+}
+
+.title-name {
+  font-family: "Cormorant", serif;
+  font-size: 4.6875rem;
+  text-align: center;
+  letter-spacing: 0.125rem;
+  height: auto;
+  padding: auto auto;
+}
+.slogan-name {
+  text-align: center;
+  margin-bottom: 60px;
+}
+.subtitle {
+  font-family: "Cormorant ital", serif;
+  font-size: 1.5625rem;
+  color: #77a9ca;
+  text-align: center;
+}
+
+.h-line {
+  height: 1px;
+  width: 55px;
+  background-color: #888;
+  display: inline-block;
+  margin: 0 30px 7px;
+}
+
+.menu-bar {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 500;
+  margin: 0 auto;
+}
+
+.title {
+  color: #78a9ca;
+  letter-spacing: 3px;
+}
+
+.menu-links {
+  color: #222222;
+  text-decoration: none;
+  letter-spacing: 3px;
+  margin-left: 20px;
+  padding: 20px 0;
+}
+
+.menu-links:hover {
+  color: #78a9ca;
+}
+
+.palestra-container {
+  text-align: center;
+}
+
+.img-palestra {
+  top: -32.95%;
+  width: 53.4375rem;
+}
+
+.table-inf {
+  text-align: justify;
+}
+
+.container-one {
+  top: auto;
+  height: auto;
+  height: 166px;
+}
+
+.topics {
+  font-family: "Cormorant", serif;
+  font-size: 2.1875rem;
+}
+
+.date-text {
+  font-size: 0.95rem;
+  color: #afafaf;
+  font-style: italic;
+}
+
+.img-table {
+  height: 12.5rem;
+}
